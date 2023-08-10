@@ -22,7 +22,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -31,7 +33,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -40,7 +44,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -49,7 +55,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -58,7 +66,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -67,7 +77,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -76,7 +88,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -85,7 +99,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -94,7 +110,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -103,7 +121,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -112,7 +132,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -121,7 +143,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -130,7 +154,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -139,7 +165,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -148,7 +176,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -157,7 +187,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -166,7 +198,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -175,7 +209,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -184,7 +220,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -193,7 +231,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -202,7 +242,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -211,7 +253,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -220,7 +264,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -229,7 +275,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -238,7 +286,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -247,7 +297,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -256,7 +308,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -265,7 +319,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -274,7 +330,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -283,7 +341,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -292,7 +352,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -301,7 +363,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -310,7 +374,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -319,7 +385,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -327,7 +395,9 @@ const surveyJSON = {
               "title": "I enjoyed reassuring and strengthening those who are discouraged.",
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -336,7 +406,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -345,7 +417,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -354,7 +428,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -363,7 +439,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -372,7 +450,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -381,7 +461,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -390,7 +472,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -399,7 +483,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -408,7 +494,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -417,7 +505,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -426,7 +516,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -435,7 +527,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -444,7 +538,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -453,7 +549,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -462,7 +560,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -471,7 +571,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -480,7 +582,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -489,7 +593,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -498,7 +604,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -507,7 +615,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -516,7 +626,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -525,7 +637,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -534,7 +648,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -543,7 +659,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -552,7 +670,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -561,7 +681,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -570,7 +692,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -579,7 +703,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -588,7 +714,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -597,7 +725,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -606,7 +736,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -615,7 +747,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -624,7 +758,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -633,7 +769,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -642,7 +780,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -651,7 +791,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -660,7 +802,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -669,7 +813,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -678,7 +824,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -687,7 +835,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -696,7 +846,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -705,7 +857,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -714,7 +868,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -723,7 +879,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -732,7 +890,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -741,7 +901,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -750,7 +912,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -759,7 +923,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -768,7 +934,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -777,7 +945,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -786,7 +956,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -795,7 +967,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -804,7 +978,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -813,7 +989,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -822,7 +1000,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -831,7 +1011,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -840,7 +1022,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -849,7 +1033,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -858,7 +1044,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -867,7 +1055,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -876,7 +1066,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -885,7 +1077,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -894,7 +1088,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -903,7 +1099,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -912,7 +1110,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -921,7 +1121,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -930,7 +1132,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -939,7 +1143,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -948,7 +1154,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -957,7 +1165,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -966,7 +1176,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -975,7 +1187,9 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
             {
               "type": "rating",
@@ -984,11 +1198,13 @@ const surveyJSON = {
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
-              "rateMax": 3
+              "rateMax": 3,
+              "minRateDescription": "Not at all",
+              "maxRateDescription": "Much"
             },
           ],
           "title": "SPIRITUAL GIFT ASSESSMENT QUESTIONNAIRE",
-          "description": "For each statement, circle the score that reflects the extent of its truth in your life. 3 for much, 2 for some, 1 for little and 0 for not at all."
+          "description": "For each statement, circle the score that reflects the extent of its truth in your life. 0 for not at all, 1 for little, 2 for some, 3 for much",
         }
       ]
     }
