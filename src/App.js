@@ -51,7 +51,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "4",
-              "title": "I have applied spiritual truth effectively to situations in my own life",
+              "title": "I have applied spiritual truth effectively to situations in my own life.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -139,7 +139,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "12",
-              "title": "I have led others to a decision for salvation through faith in Christ",
+              "title": "I have led others to a decision for salvation through faith in Christ.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -161,7 +161,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "14",
-              "title": "When in a group, I am the one others look to for vision and direction",
+              "title": "When in a group, I am the one others look to for vision and direction.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -172,7 +172,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "15",
-              "title": "When I speak, people seem to listen and agree",
+              "title": "When I speak, people seem to listen and agree.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -194,7 +194,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "17",
-              "title": "I tend to see potential in people",
+              "title": "I tend to see potential in people.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -205,7 +205,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "18",
-              "title": "I enjoyed praying for long times and receive leading's as to what God wants me to pray for",
+              "title": "I enjoyed praying for long periods of time and receive leadings as to what God wants me to pray for.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -227,7 +227,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "20",
-              "title": "I have enjoyed assuming the responsibility. for the spiritual wel being of a particular group o f Christians.",
+              "title": "I have enjoyed assuming the responsibility for the spiritual well being of a particular group of Christians.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -260,7 +260,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "23",
-              "title": "I have had insights of spiritual truth that others have said helped bring them closer to God",
+              "title": "I have had insights of spiritual truth that others have said helped bring them closer to God.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -271,7 +271,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "24",
-              "title": "I enjoyed developing and using my artistic skills (art, drama, music, photography, etc.)",
+              "title": "I enjoyed developing and using my artistic skills (art, drama, music, photography, etc).",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -282,7 +282,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "25",
-              "title": "I can \"see\" the Spirit of God resting on certain people from time to time.",
+              "title": "I can see the Spirit of God resting on certain people from time to time.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -337,7 +337,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "30",
-              "title": "I have shared joyfully how Christ has brought me to Himself in a way that is meaningful to nonbelievers.",
+              "title": "I have shared joyfully how Christ has brought me to Himself in a way that is meaningful to non-believers.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -424,7 +424,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "38",
-              "title": "I feel unafraid of giving spiritual guidance and direction ni a group of Christians.",
+              "title": "I feel unafraid of giving spiritual guidance and direction in a group of Christians.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -677,7 +677,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "61",
-              "title": "I can recognize whether a person's teaching is from God, from Satan, of human origin.",
+              "title": "I can recognize whether a person's teaching is from God, from Satan, or of human origin.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -765,7 +765,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "69",
-              "title": "When I join a group, others seem to back of and expect me to take the leadership.",
+              "title": "When I join a group, others seem to back off and expect me to take the leadership.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -798,7 +798,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "72",
-              "title": "Others have told me that my prayers for them have been answered intangible ways.",
+              "title": "Others have told me that my prayers for them have been answered in tangible ways.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -831,7 +831,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "75",
-              "title": "Studying the Bible and sharing my insights with others is very satisfying for me",
+              "title": "Studying the Bible and sharing my insights with others is very satisfying for me.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -875,7 +875,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "79",
-              "title": "I can tell whether a person is speaking in tongues is genuine.",
+              "title": "I can tell whether a person is genuinely speaking in tongues.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -897,7 +897,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "81",
-              "title": "When I serve the Lord, I really don't care who gets the credit.",
+              "title": "When I serve the Lord, I really do not care who gets the credit.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -919,7 +919,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "83",
-              "title": "More than most, I have had a strong desire to see peoples of other nations won to the Lord.",
+              "title": "More than most, I have had a strong desire to see people of other nations won to the Lord.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -930,7 +930,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "84",
-              "title": "I am attracted to nonbelievers because of my desire to win them to Christ.",
+              "title": "I am interested to befriend non-believers because of my desire to win them to Christ.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -941,7 +941,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "85",
-              "title": "I have desired to make my home available to those in the Lord's service whenever needed.",
+              "title": "I desire to make my home available to those in the Lord's service whenever needed.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -952,7 +952,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "86",
-              "title": "Others have told me that I am a person of unusual vision, and I agree.",
+              "title": "Others have told me that I am a person of unusual vision.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -996,7 +996,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "90",
-              "title": "When I pray, God frequently speaks to me, and I recognise His voice.",
+              "title": "When I pray, God frequently speaks to me, and I recognize His voice.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -1018,7 +1018,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "92",
-              "title": "I enjoy patiently but firmly nurturing others in their development as believers",
+              "title": "I patiently but firmly nurture others in their development as believers",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -1029,7 +1029,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "93",
-              "title": "I enjoy explaining things ot people so that they can grow spiritually and personally.",
+              "title": "I enjoy explaining things to people so that they can grow spiritually.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -1084,7 +1084,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "98",
-              "title": "I believe I have been given an abundance of resources so that I may gave more to the Lord's work.",
+              "title": "I believe I have been given an abundance of resources so that I may give more to the Lord's work.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -1117,7 +1117,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "101",
-              "title": "I am able to orchestrate or oversee several church ministries",
+              "title": "I am able to orchestrate or oversee several church ministries.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -1128,7 +1128,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "102",
-              "title": "I seek opportunities to talk about spiritual matters with unbelievers",
+              "title": "I seek opportunities to talk about spiritual matters with unbelievers.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -1150,7 +1150,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "104",
-              "title": "I can move forward in-spite of opposition or lack of support when I sense God's blessings in an undertaking.",
+              "title": "I can move forward in spite of opposition or lack of support when I sense God's blessings in an undertaking.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -1172,7 +1172,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "106",
-              "title": "I can visualise a coming event, anticipate potential problems and develop contingency plans.",
+              "title": "I can visualize a coming event, anticipate potential problems and develop contingency plans.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -1183,7 +1183,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "107",
-              "title": "I am able to challenge or rebuke others in order to foster spiritual growth",
+              "title": "I am able to challenge or rebuke others in order to foster spiritual growth.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -1204,7 +1204,7 @@ const surveyJSON = {
             },
           ],
           "title": "SPIRITUAL GIFT ASSESSMENT QUESTIONNAIRE",
-          "description": "For each statement, circle the score that reflects the extent of its truth in your life. 0 for not at all, 1 for little, 2 for some, 3 for much",
+          "description": "For each statement, select the score that reflects the extent of its truth in your life. 0 for not at all, 1 for little, 2 for some, 3 for much",
         }
       ]
     }
