@@ -1249,7 +1249,7 @@ function App() {
     doc.text(`Helps: 9, 27, 45, 63, 81, 99: ${Helps}`, 20, 240);
     doc.text(`Mercy: 10, 28, 46, 64, 82, 100: ${Mercy}`, 20, 250);
     doc.text(`Apostleship: 11, 29, 47, 65, 83, 101: ${Apostleship}`, 20, 260);
-    doc.text(`Evangelism: 12, 30, 48, 66, 84, 102:Evangelism}`, 20, 270);
+    doc.text(`Evangelism: 12, 30, 48, 66, 84, 102: ${Evangelism}`, 20, 270);
     doc.text(`Hospitality 13, 31, 49, 67, 85, 103: ${Hospitality}`, 20, 280);
     doc.text(`Faith: 14, 32, 50, 68, 86, 104: ${Faith}`, 20, 290);
     doc.text(`Leadership: 15, 33, 51, 69, 87, 105: ${Leadership}`, 20, 300);

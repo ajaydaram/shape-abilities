@@ -1,4 +1,10 @@
 
+body {
+  display: flex;
+  overflow-x: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
 /* Custom CSS for the survey component */
 .survey-component {
   font-family: Arial, sans-serif;
