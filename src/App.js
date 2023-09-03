@@ -1236,26 +1236,26 @@ function App() {
     const Encouragement = answers['17'] + answers['35'] + answers['53'] + answers['71'] + answers['89'] + answers['107'];
     const Intercession = answers['18'] + answers['36'] + answers['54'] + answers['72'] + answers['90'] + answers['108'];
 
-    const doc = new jsPDF({ format: [210, 450] });
-    doc.text('Spiritual Gift Assessment Results:', 20, 150);
-    doc.text(`Prophecy: 1, 19, 37, 55, 73, 91: ${Prophecy}`, 20, 160);
-    doc.text(`Shepherding: 2, 20, 38,56, 74, 92: ${Shepherding}`, 20, 170);
-    doc.text(`Teaching: 3, 21, 39, 57, 75, 93: ${Teaching}`, 20, 180);
-    doc.text(`Wis: 4, 22, 40, 58, 76, 94: ${Wisdom}`, 20, 190);
-    doc.text(`Knowledge: 5, 23, 41, 59, 77, 95: ${Knowledge}`, 20, 200);
-    doc.text(`Creative_Comm: 6, 24, 42, 60, 78, 96: ${Creative_Comm}`, 20, 210);
-    doc.text(`Discernment: 7, 25, 43, 61, 79, 97: ${Discernment}`, 20, 220);
-    doc.text(`Giving: 8, 26, 44, 62, 80, 98: ${Giving}`, 20, 230);
-    doc.text(`Helps: 9, 27, 45, 63, 81, 99: ${Helps}`, 20, 240);
-    doc.text(`Mercy: 10, 28, 46, 64, 82, 100: ${Mercy}`, 20, 250);
-    doc.text(`Apostleship: 11, 29, 47, 65, 83, 101: ${Apostleship}`, 20, 260);
-    doc.text(`Evangelism: 12, 30, 48, 66, 84, 102: ${Evangelism}`, 20, 270);
-    doc.text(`Hospitality 13, 31, 49, 67, 85, 103: ${Hospitality}`, 20, 280);
-    doc.text(`Faith: 14, 32, 50, 68, 86, 104: ${Faith}`, 20, 290);
-    doc.text(`Leadership: 15, 33, 51, 69, 87, 105: ${Leadership}`, 20, 300);
-    doc.text(`Administration: 16, 34, 52, 70, 88, 106: ${Administration}`, 20, 310);
-    doc.text(`Encouragement: 17, 35, 53, 71, 89, 107: ${Encouragement}`, 20, 320);
-    doc.text(`Intercession: 18, 36, 54, 72, 90, 108: ${Intercession}`, 20, 330);
+    const doc = new jsPDF({ format: [210, 600] });
+    doc.text('Spiritual Gift Assessment Results:', 20, 30);
+    doc.text(`Prophecy: 1, 19, 37, 55, 73, 91: ${Prophecy}`, 20, 40);
+    doc.text(`Shepherding: 2, 20, 38,56, 74, 92: ${Shepherding}`, 20, 50);
+    doc.text(`Teaching: 3, 21, 39, 57, 75, 93: ${Teaching}`, 20, 60);
+    doc.text(`Wisdom: 4, 22, 40, 58, 76, 94: ${Wisdom}`, 20, 70);
+    doc.text(`Knowledge: 5, 23, 41, 59, 77, 95: ${Knowledge}`, 20, 80);
+    doc.text(`Creative_Comm: 6, 24, 42, 60, 78, 96: ${Creative_Comm}`, 20, 90);
+    doc.text(`Discernment: 7, 25, 43, 61, 79, 97: ${Discernment}`, 20, 100);
+    doc.text(`Giving: 8, 26, 44, 62, 80, 98: ${Giving}`, 20, 110);
+    doc.text(`Helps: 9, 27, 45, 63, 81, 99: ${Helps}`, 20, 120);
+    doc.text(`Mercy: 10, 28, 46, 64, 82, 100: ${Mercy}`, 20, 130);
+    doc.text(`Apostleship: 11, 29, 47, 65, 83, 101: ${Apostleship}`, 20, 140);
+    doc.text(`Evangelism: 12, 30, 48, 66, 84, 102: ${Evangelism}`, 20, 150);
+    doc.text(`Hospitality 13, 31, 49, 67, 85, 103: ${Hospitality}`, 20, 160);
+    doc.text(`Faith: 14, 32, 50, 68, 86, 104: ${Faith}`, 20, 170);
+    doc.text(`Leadership: 15, 33, 51, 69, 87, 105: ${Leadership}`, 20, 180);
+    doc.text(`Administration: 16, 34, 52, 70, 88, 106: ${Administration}`, 20, 190);
+    doc.text(`Encouragement: 17, 35, 53, 71, 89, 107: ${Encouragement}`, 20, 200);
+    doc.text(`Intercession: 18, 36, 54, 72, 90, 108: ${Intercession}`, 20, 210);
 
     const gifts = [
       { name: 'Prophecy', score: Prophecy },
@@ -1284,14 +1284,14 @@ function App() {
       const secondaryGifts = gifts.slice(3, 6);
 
       doc.setFontSize(14);
-      doc.text('Primary Gifts:', 20, 350);
+      doc.text('Primary Gifts:', 20, 230);
       primaryGifts.forEach((gift, index) => {
-        doc.text(`${index + 1}. ${gift.name}: ${gift.score}`, 20, 360 + index * 10);
+        doc.text(`${index + 1}. ${gift.name}: ${gift.score}`, 20, 240 + index * 10);
       });
 
-      doc.text('Secondary Gifts:', 20, 390);
+      doc.text('Secondary Gifts:', 20, 270);
       secondaryGifts.forEach((gift, index) => {
-        doc.text(`${index + 1}. ${gift.name}: ${gift.score}`, 20, 430 + index * 10);
+        doc.text(`${index + 1}. ${gift.name}: ${gift.score}`, 20, 280 + index * 10);
       });
 
       doc.save('Spiritual_Gift_Assessment_Results.pdf');
