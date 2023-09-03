@@ -227,7 +227,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "20",
-              "title": "I have enjoyed assuming the responsibility for the spiritual well being of a particular group of Christians.",
+              "title": "I have enjoyed assuming the responsibility for the spiritual well-being of a particular group of Christians.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -424,7 +424,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "38",
-              "title": "I feel unafraid of giving spiritual guidance and direction in a group of Christians.",
+              "title": "I feel unafraid of giving spiritual guidance and direction to a group of Christians.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -446,7 +446,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "40",
-              "title": "When a person has a problem I can frequently guide him or her to the best biblical solution.",
+              "title": "When a person has a problem, I can frequently guide him or her to the best biblical solution.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
@@ -534,7 +534,7 @@ const surveyJSON = {
             {
               "type": "rating",
               "name": "48",
-              "title": "Non-Christians Have noted that they feel comfortable when they are around me, and that I have a positive effect on them towards developing a faith in Christ.",
+              "title": "Non-Christians have noted that they feel comfortable when they are around me, and that I have a positive effect on them towards developing a faith in Christ.",
               "isRequired": true,
               "rateCount": 4,
               "rateMin": 0,
